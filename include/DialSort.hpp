@@ -7,6 +7,7 @@
 class DialSort : public IAlgorithm {
 public:
     void sort(std::vector<int>& data) override;
+    std::vector<std::vector<int>> getSimulationTrace(std::vector<int> data);
 
     std::string getName() const override;
     std::string getComplexity() const override;

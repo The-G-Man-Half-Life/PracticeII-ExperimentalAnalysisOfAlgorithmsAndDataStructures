@@ -16,10 +16,12 @@ add_executable(BenchmarkSimulator
     src/main.cpp 
     src/DataGenerator.cpp 
     src/DialSort.cpp 
+    src/Benchmarker.cpp
     src/ParallelRadixSort.cpp 
     src/ParallelBucketSort.cpp
     src/ParallelQuickSort.cpp 
+    src/Visualizer.cpp
 )
 
 # Linking OpenMP to the executables
-target_link_libraries(BenchmarkSimulator Private OpenMP::OpenMP_CXX)
+target_link_libraries(BenchmarkSimulator PRIVATE OpenMP::OpenMP_CXX psapi)

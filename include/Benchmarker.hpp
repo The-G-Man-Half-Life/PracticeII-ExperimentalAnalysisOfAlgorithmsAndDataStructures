@@ -9,6 +9,7 @@ struct BenchmarkResult {
     double mean_time_ms;     // average time in miliseconds
     double std_dev_ms;       // Standard Deviation in miliseconds
     double throughput;       // Processed elements by the second (Keys/s)
+    size_t peak_memory_bytes; //will calculate memory in bytes
     bool is_sorted;          // Verifying if array is sorted
 };
 
