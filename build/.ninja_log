@@ -1,15 +1,14 @@
 # ninja log v7
 27	720	8002099992569753	CMakeFiles/BenchmarkSimulator.dir/src/ParallelRadixSort.cpp.obj	dd71bcfc2405bc03
-39	592	8002099992689763	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
+44	634	8002151792323401	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
 34	817	8002099992639765	CMakeFiles/BenchmarkSimulator.dir/src/ParallelBucketSort.cpp.obj	bb9695c29f25a792
 15	672	8002099992459784	CMakeFiles/BenchmarkSimulator.dir/src/DialSort.cpp.obj	c692a7278bf62667
 13	3724	8001507823028101	CMakeFiles/BenchmarkSimulator.dir/src/DataGenerator.cpp.obj	71ac184a1bb87476
-70	950	8002123963338873	CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj	98278d9b89204c24
+55	2157	8002154438671392	CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj	98278d9b89204c24
 20	1951	8002099992509772	CMakeFiles/BenchmarkSimulator.dir/src/Benchmarker.cpp.obj	9a7e31d4c344950d
-969	1187	8002125921186255	BenchmarkSimulator.exe	1d1c4cb24fe074ba
-78	1309	8002132741862846	build.ninja	f7b34dbff2073563
-78	1309	8002132741802849	C:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/build/cmake_install.cmake	f7b34dbff2073563
-44	967	8002125911952743	CMakeFiles/BenchmarkSimulator.dir/src/Visualizer.cpp.obj	7ffba450f798e3a3
+2158	2356	8002154459699178	BenchmarkSimulator.exe	1d1c4cb24fe074ba
+78	1309	8002157395236889	build.ninja	f7b34dbff2073563
+78	1309	8002157395176895	C:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/build/cmake_install.cmake	f7b34dbff2073563
 68	972	8002132837804854	CMakeFiles/BenchmarkSimulator.dir/src/Visualizer.cpp.obj	7ffba450f798e3a3
-61	2079	8002132837734713	CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj	98278d9b89204c24
-2079	2282	8002132857905911	BenchmarkSimulator.exe	1d1c4cb24fe074ba
+48	642	8002157417977848	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
+643	839	8002157423919457	BenchmarkSimulator.exe	1d1c4cb24fe074ba
