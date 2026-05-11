@@ -2,70 +2,70 @@
   "Uniform": [
     {
       "N": 100000,
-      "DialSort (Secuential)": 3.392700,
-      "Parallel QuickSort": 19.439733,
-      "Parallel BucketSort": 5.414400,
-      "Parallel Radix Sort": 27.403367
+      "DialSort (Secuential)": 3.459467,
+      "Parallel QuickSort": 20.066400,
+      "Parallel BucketSort": 5.772400,
+      "Parallel Radix Sort": 26.899533
     },
     {
       "N": 1000000,
-      "DialSort (Secuential)": 22.494133,
-      "Parallel QuickSort": 59.996733,
-      "Parallel BucketSort": 42.939367,
-      "Parallel Radix Sort": 186.068367
+      "DialSort (Secuential)": 22.433200,
+      "Parallel QuickSort": 63.786267,
+      "Parallel BucketSort": 44.892733,
+      "Parallel Radix Sort": 183.293500
     },
     {
       "N": 10000000,
-      "DialSort (Secuential)": 216.758133,
-      "Parallel QuickSort": 536.958167,
-      "Parallel BucketSort": 494.505333,
-      "Parallel Radix Sort": 1795.402467
+      "DialSort (Secuential)": 215.589233,
+      "Parallel QuickSort": 549.414733,
+      "Parallel BucketSort": 489.960533,
+      "Parallel Radix Sort": 1780.613967
     }
   ],
   "Normal": [
     {
       "N": 100000,
-      "DialSort (Secuential)": 3.276533,
-      "Parallel QuickSort": 17.749733,
-      "Parallel BucketSort": 5.759967,
-      "Parallel Radix Sort": 27.742000
+      "DialSort (Secuential)": 3.358367,
+      "Parallel QuickSort": 17.094467,
+      "Parallel BucketSort": 5.164567,
+      "Parallel Radix Sort": 27.703667
     },
     {
       "N": 1000000,
-      "DialSort (Secuential)": 22.293700,
-      "Parallel QuickSort": 54.584333,
-      "Parallel BucketSort": 45.083633,
-      "Parallel Radix Sort": 188.364133
+      "DialSort (Secuential)": 22.513033,
+      "Parallel QuickSort": 61.017533,
+      "Parallel BucketSort": 45.558467,
+      "Parallel Radix Sort": 183.635033
     },
     {
       "N": 10000000,
-      "DialSort (Secuential)": 215.587867,
-      "Parallel QuickSort": 562.787500,
-      "Parallel BucketSort": 479.546000,
-      "Parallel Radix Sort": 1831.777433
+      "DialSort (Secuential)": 215.262533,
+      "Parallel QuickSort": 494.454500,
+      "Parallel BucketSort": 475.428933,
+      "Parallel Radix Sort": 1802.497033
     }
   ],
   "Biased": [
     {
       "N": 100000,
-      "DialSort (Secuential)": 3.344867,
-      "Parallel QuickSort": 17.135633,
-      "Parallel BucketSort": 5.252100,
-      "Parallel Radix Sort": 27.464033
+      "DialSort (Secuential)": 3.301067,
+      "Parallel QuickSort": 17.532567,
+      "Parallel BucketSort": 5.325967,
+      "Parallel Radix Sort": 28.004800
     },
     {
       "N": 1000000,
-      "DialSort (Secuential)": 22.573033,
-      "Parallel QuickSort": 62.814200,
-      "Parallel BucketSort": 44.711400,
-      "Parallel Radix Sort": 188.730967
+      "DialSort (Secuential)": 22.669267,
+      "Parallel QuickSort": 50.939667,
+      "Parallel BucketSort": 44.343567,
+      "Parallel Radix Sort": 186.720000
     },
     {
       "N": 10000000,
-      "DialSort (Secuential)": 212.624667,
-      "Parallel QuickSort": 466.196433,
-      "Parallel BucketSort": 469.782233,
-      "Parallel Radix Sort": 1857.724133
+      "DialSort (Secuential)": 215.443567,
+      "Parallel QuickSort": 476.202800,
+      "Parallel BucketSort": 499.233000,
+      "Parallel Radix Sort": 1813.034100
     }
   ]
 }

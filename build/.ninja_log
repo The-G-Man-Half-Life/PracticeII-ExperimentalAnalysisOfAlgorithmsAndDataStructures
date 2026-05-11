@@ -1,14 +1,12 @@
 # ninja log v7
-27	720	8002099992569753	CMakeFiles/BenchmarkSimulator.dir/src/ParallelRadixSort.cpp.obj	dd71bcfc2405bc03
-44	634	8002151792323401	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
-34	817	8002099992639765	CMakeFiles/BenchmarkSimulator.dir/src/ParallelBucketSort.cpp.obj	bb9695c29f25a792
-15	672	8002099992459784	CMakeFiles/BenchmarkSimulator.dir/src/DialSort.cpp.obj	c692a7278bf62667
+77	5590	8002335331479239	CMakeFiles/BenchmarkSimulator.dir/src/ParallelRadixSort.cpp.obj	dd71bcfc2405bc03
+93	5578	8002335331639278	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
+86	5610	8002335331569252	CMakeFiles/BenchmarkSimulator.dir/src/ParallelBucketSort.cpp.obj	bb9695c29f25a792
+71	5588	8002335331419255	CMakeFiles/BenchmarkSimulator.dir/src/DialSort.cpp.obj	c692a7278bf62667
 13	3724	8001507823028101	CMakeFiles/BenchmarkSimulator.dir/src/DataGenerator.cpp.obj	71ac184a1bb87476
-55	2157	8002154438671392	CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj	98278d9b89204c24
-20	1951	8002099992509772	CMakeFiles/BenchmarkSimulator.dir/src/Benchmarker.cpp.obj	9a7e31d4c344950d
-2158	2356	8002154459699178	BenchmarkSimulator.exe	1d1c4cb24fe074ba
-78	1309	8002157395236889	build.ninja	f7b34dbff2073563
-78	1309	8002157395176895	C:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/build/cmake_install.cmake	f7b34dbff2073563
+65	13203	8002335331367290	CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj	98278d9b89204c24
+130	14696	8002327984864133	CMakeFiles/BenchmarkSimulator.dir/src/Benchmarker.cpp.obj	9a7e31d4c344950d
+13203	13924	8002335462744579	BenchmarkSimulator.exe	1d1c4cb24fe074ba
+78	1309	8002338328216894	build.ninja	f7b34dbff2073563
+78	1309	8002338328146886	C:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/build/cmake_install.cmake	f7b34dbff2073563
 68	972	8002132837804854	CMakeFiles/BenchmarkSimulator.dir/src/Visualizer.cpp.obj	7ffba450f798e3a3
-48	642	8002157417977848	CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj	937195f5574ce0ed
-643	839	8002157423919457	BenchmarkSimulator.exe	1d1c4cb24fe074ba
