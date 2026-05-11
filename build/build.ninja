@@ -100,6 +100,14 @@ build CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj: CXX_COMPI
   OBJECT_FILE_DIR = CMakeFiles\BenchmarkSimulator.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\BenchmarkSimulator.dir
 
+build CMakeFiles/BenchmarkSimulator.dir/src/Visualizer.cpp.obj: CXX_COMPILER__BenchmarkSimulator_unscanned_ C$:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/src/Visualizer.cpp || cmake_object_order_depends_target_BenchmarkSimulator
+  DEP_FILE = CMakeFiles\BenchmarkSimulator.dir\src\Visualizer.cpp.obj.d
+  FLAGS = -std=gnu++17 -fopenmp
+  INCLUDES = -IC:/Users/mateo/Downloads/PracticeII-ExperimentalAnalysisOfAlgorithmsAndDataStructures/include
+  OBJECT_DIR = CMakeFiles\BenchmarkSimulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\BenchmarkSimulator.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\BenchmarkSimulator.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target BenchmarkSimulator
@@ -108,8 +116,8 @@ build CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable BenchmarkSimulator.exe
 
-build BenchmarkSimulator.exe: CXX_EXECUTABLE_LINKER__BenchmarkSimulator_ CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/DataGenerator.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/DialSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/Benchmarker.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelRadixSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelBucketSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj | C$:/msys64/ucrt64/lib/libgomp.dll.a C$:/msys64/ucrt64/lib/libmingwthrd.a
-  LINK_LIBRARIES = C:/msys64/ucrt64/lib/libgomp.dll.a  C:/msys64/ucrt64/lib/libmingwthrd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+build BenchmarkSimulator.exe: CXX_EXECUTABLE_LINKER__BenchmarkSimulator_ CMakeFiles/BenchmarkSimulator.dir/src/main.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/DataGenerator.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/DialSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/Benchmarker.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelRadixSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelBucketSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/ParallelQuickSort.cpp.obj CMakeFiles/BenchmarkSimulator.dir/src/Visualizer.cpp.obj | C$:/msys64/ucrt64/lib/libgomp.dll.a C$:/msys64/ucrt64/lib/libmingwthrd.a
+  LINK_LIBRARIES = -lpsapi  C:/msys64/ucrt64/lib/libgomp.dll.a  C:/msys64/ucrt64/lib/libmingwthrd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\BenchmarkSimulator.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
